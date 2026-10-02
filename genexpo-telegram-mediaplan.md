@@ -162,6 +162,61 @@
 | Искусство и коллекции как семейный актив | [@artinvestmentru](https://t.me/artinvestmentru) ARTinvestment.RU; клуб коллекционеров [Postrigay Gallery](https://postrigaygallery.ru/collectorsclub) | — |
 | Филантропия | «Настоящая филантропия» [@pro_philanthropy](https://t.me/pro_philanthropy) | ~450, маленький |
 
+#### F. Хобби и стиль жизни состоятельной аудитории
+
+**Главное:** в массовых каналах про хобби (Формула-1, «luxury lifestyle») сидят в основном фанаты и люди, которые мечтают о такой жизни. Покупателей билета за 65–200 тыс. ₽ там мало. Лучше работают **маленькие нишевые каналы**, где дорого само участие: гольф, конкур, коллекционирование искусства. Подписчиков там мало, зато плотность ЦА высокая и реклама недорогая.
+
+**Гольф** (в России дорогая ниша, приоритет 1 в этом блоке)
+| Канал | Подписчики | Комментарий |
+|---|---|---|
+| [@rusgolf](https://tgstat.ru/en/channel/@rusgolf) RUSGOLF | — | официальный канал Ассоциации гольфа России |
+| [@golfru_official](https://t.me/golfru_official) Golf.ru | ~2,1 тыс. | новости, турниры в Пестово и Завидово |
+| [@mosgolf](https://t.me/mosgolf) «Московский Гольф» | ~1,7 тыс. | московское сообщество |
+| [@golftvrus](https://tlgrm.ru/channels/@golftvrus) Golf TV | ~1 тыс. | |
+| @annagolfinrussia GOLF | ~0,7 тыс. | канал Анны Овчинниковой |
+| @timetoteegolf Time to Tee | ~0,4 тыс. | |
+| Гольф-клубы Пестово (канал Pestovo Live), Завидово | — | офлайн-партнёрство: флаеры и рассылка членам клуба |
+
+**Конный спорт**
+| Канал | Подписчики | Комментарий |
+|---|---|---|
+| [@prokoni_ru](https://t.me/prokoni_ru) PROKONI.RU | ~11,9 тыс. | лошади и конный спорт |
+| [@fksrussia](https://t.me/fksrussia) ФКСР | ~9,4 тыс. | Федерация конного спорта России |
+| КСК «Отрада», Maxima Stables | TG не найден | подмосковные клубы, где проходят международные турниры. Подходят для офлайн-партнёрства |
+| ⚠️ @horseatwork «Конь на работе» | ~134 тыс. | **не подходит**: канал про вакансии, к лошадям отношения не имеет |
+
+**Яхтинг**
+| Канал | Подписчики | Комментарий |
+|---|---|---|
+| [@savsails](https://tlgrm.ru/channels/@savsails) «Про яхты» | ~5,9 тыс. | регаты, обучение, события |
+| @YachtingOcean «Яхтинг» | — | |
+| @yachtclub_rf_traide «ЯХТЕБЫТЬ» | ~1,7 тыс. | продажа яхт и лодок, то есть аудитория покупателей |
+| Royal Yacht Club (Химки) | TG не найден | проводит Summer Fair («ярмарку миллионеров») и Moscow Yacht Show. Вариант для офлайн-партнёрства |
+
+**Искусство, коллекционирование, аукционы** (приоритет 1 в этом блоке; тема «искусство как семейный актив» есть в программе форума)
+| Канал | Подписчики | Комментарий |
+|---|---|---|
+| [@cosmoscowfair](https://t.me/cosmoscowfair) Cosmoscow | ~12,3 тыс. | ярмарка современного искусства, у неё есть Cosmoscow Collectors Club. Владелец — Г. Березкин (ему принадлежит и РБК) |
+| [@TANR_official](https://t.me/TANR_official) The Art Newspaper Russia | ~22 тыс. | арт-рынок |
+| [@artguide_com](https://t.me/artguide_com) «Артгид» | ~18,4 тыс. | профессионалы и любители искусства |
+| [@artinvestmentru](https://t.me/artinvestmentru) ARTinvestment.RU | — | инвестиции в искусство, аналитика аукционов |
+| Аукционный дом «Литфонд» | TG есть (указан в контактах), хэндл не найден | редкие книги, автографы, иконы; Москва и Санкт-Петербург |
+| Подборка [антикварных каналов и чатов (telegid)](https://telegid.me/collections/antikvariat-tg) | 19 каналов | искать каналы коллекционеров |
+
+**Часы и вино** (дополнительно)
+| Канал | Подписчики | Комментарий |
+|---|---|---|
+| [@prochasyblog](https://t.me/prochasyblog) «Про Часы» | ~8,7 тыс. | обзоры часов |
+| [@simple_wine_news](https://t.me/simple_wine_news) Simple Wine News | ~46,7 тыс. | винная тема, в названии бренд импортёра SimpleWine |
+| [@vinshkaf](https://tgstat.ru/en/channel/@vinshkaf) «Винный шкаф» | ~17 тыс. | |
+| @nevvino «Вино и люди» | ~25 тыс. | |
+
+**Автогонки: только с оговоркой.** Simply Formula (~233 тыс.), STANIZLAVSKY (~130 тыс.), [@f1_sports](https://t.me/f1_sports) (~73,6 тыс.) — это массовые фанатские каналы. Покупателей дорогого билета там единицы. Брать имеет смысл, только если нужен охват ради узнаваемости бренда.
+
+**Luxury-агрегаторы не подходят:** каналы вроде Luxury Living (~14,8 тыс.) — это картинки «красивой жизни» с аспирационной аудиторией (люди, которые хотят так жить, а не живут). Реклама там не продаст билеты.
+
+**Как заходить в хобби-ниши:** анонс в канале на форум не продаст. Нужен **крючок под интерес аудитории**. Например, сессию «Искусство и коллекции как семейный актив» анонсировать в арт-каналах. Или договориться с гольф-клубом, конным клубом или яхт-клубом о рассылке членам клуба со спеццену.
+
 **Исключено:** канал «Филантроп» (@philanthropyRu). По данным поиска, это проект фонда, который признан выполняющим функции иностранного агента. Также исключены мелкие юридические каналы (например, «Про наследство», 47 подписчиков).
 
 #### Что делать в первую очередь
@@ -190,4 +245,5 @@
 - Семья, пожилые, психология: [TGStat @LargeFamilies_Russia](https://tgstat.ru/en/channel/@LargeFamilies_Russia), [Т—Ж: «Московское долголетие»](https://t-j.ru/short/sweet-sixty/), [TGStat @lpetranovskaya](https://tgstat.ru/en/channel/@lpetranovskaya), [Т—Ж: блоги психологов](https://t-j.ru/short/psy-blogs/)
 - Писатели: [vc.ru: 59 каналов для писателей](https://vc.ru/marketing/1490272-59-telegram-kanalov-dlya-pisatelei-2024)
 - Премиальная аудитория форума: презентация «Форум преемственности 2026» (ЦА, темы, партнёры, Forbes Club), [TGStat @forbesrussia](https://tgstat.ru/en/channel/@forbesrussia), [telegram-store Forbes](https://ru.telegram-store.com/catalog/channels/forbesrussia), [TGStat @ForbesWomanRussia](https://tgstat.ru/en/channel/@ForbesWomanRussia), [t.me/frank_media](https://t.me/frank_media), [Frank RG private banking](https://frankrg.com/research/research-themes/private-banking), [TGStat @swtcwealthagram](https://tgstat.ru/channel/@swtcwealthagram), [WEALTH Navigator](https://wealthnavigator.ru/o-proekte/), [Forbes Club](https://www.forbes.ru/club/about), [Атланты](https://atlanty.ru/), [Telemetr Инк.](https://telemetr.me/content/incnews), [TGStat @businesssecrets](https://tgstat.ru/en/channel/@businesssecrets), [Inc. о «Секрете фирмы»](https://incrussia.ru/news/izdanie-sekret-firmy-perestalo-vypuskat-novosti-vozmozhno-rech-idet-o-zakrytii/), [Telemetr rbc_pro](https://telemetr.me/content/rbc_pro), [t.me/deloros](https://t.me/deloros), [TGStat @roscongress](https://tgstat.ru/channel/@roscongress), [rspectr: канал ДПиИР](https://www.rspectr.com/novosti/58896/departament-predprinimatelstva-moskvy-zapustil-telegram-kanal-dlya-podderzhki-biznesa), [Ведомости о Рыбакове](https://www.vedomosti.ru/gorod/townspeople/articles/mne-plevat-na-dengi-milliarder-igor-ribakov-kak-stal-blogerom-uchit-zarabativat-drugih), [Telemetr Хартманн](https://telemetr.me/content/oskar_hartmann), [Telemetr элитная недвижимость](https://telemetr.me/content/eliterealestatemoscow), [ARTinvestment](https://artinvestment.ru/news/artnews/20190424_telegram_artinvestmentru.html), [t.me/philanthropyRu](https://t.me/s/philanthropyRu), [Telemetr lawheritage](https://telemetr.me/content/lawheritage)
+- Хобби и стиль жизни: [TGStat @rusgolf](https://tgstat.ru/en/channel/@rusgolf), [t.me/golfru_official](https://t.me/golfru_official), [t.me/mosgolf](https://t.me/s/mosgolf), [golf.ru о Pestovo Live](https://golf.ru/news/v_rossii/telegram_kanal_pestoto_live/), [TGStat @horseatwork](https://tgstat.ru/en/channel/@horseatwork), [t.me/fksrussia](https://t.me/s/fksrussia), [t.me/prokoni_ru](https://t.me/s/prokoni_ru), [КСК «Отрада»](https://otradaclub.com/services/horseclub), [tlgrm @savsails](https://tlgrm.ru/channels/@savsails), [Royal Yacht Club](https://podmoskovnaya-riviera.ru/yaht-kluby/royal-yacht-club/), [Т—Ж о Cosmoscow 2026](https://t-j.ru/news/cosmoscow-2026/), [Сноб о владельце Cosmoscow](https://snob.ru/news/iarmarka-sovremennogo-iskusstva-cosmoscow-smenila-vladeltsa/), [t.me/cosmoscowfair](https://t.me/s/cosmoscowfair), [Telemetr TANR](https://telemetr.me/content/tanr_official), [t.me/artguide_com](https://t.me/artguide_com), [Литфонд](https://www.litfund.ru/), [telegid: антиквариат](https://telegid.me/collections/antikvariat-tg), [t.me/prochasyblog](https://t.me/s/prochasyblog), [t.me/simple_wine_news](https://t.me/simple_wine_news), [TGStat @vinshkaf](https://tgstat.ru/en/channel/@vinshkaf), [TGStat Simply Formula](https://tgstat.ru/en/channel/@simply_formula), [Telemetr STANIZLAVSKY](https://telemetr.me/content/stanizlavsky), [t.me/f1_sports](https://t.me/f1_sports), [TGStat Luxury Living](https://tgstat.ru/en/channel/@luxurylivingworld)
 - Бизнес и капитал: [sembiz.ru](https://sembiz.ru/), [forumnasledniki.ru](https://forumnasledniki.ru/), [tlgrm @sgcapital](https://tlgrm.ru/channels/@sgcapital), [Финуслуги](https://finuslugi.ru/navigator/stat_top_6_telegram_kanalov_ob_upravlenii_lichnymi_finansami), [Inc.](https://incrussia.ru/specials/biznes-kanaly-150-telagram-kanalov-o-biznese-za-kotorymi-sledyat-predprinimateli/), [vc.ru: женщины-предприниматели](https://vc.ru/id932767/292827-30-telegram-kanalov-dlya-zhenshin-predprinimatelei), [Т—Ж: юр-каналы](https://t-j.ru/short/law-tg/)
